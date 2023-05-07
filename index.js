@@ -11,6 +11,8 @@ app.use(express.json());
 // zibrailfaruqi
 // 7QsFCqlkydp2qpCY
 
+// const uri = "mongodb://localhost:27017";
+
 const uri =
   "mongodb+srv://zibrailfaruqi:7QsFCqlkydp2qpCY@cluster0.hhzare7.mongodb.net/?retryWrites=true&w=majority";
 
